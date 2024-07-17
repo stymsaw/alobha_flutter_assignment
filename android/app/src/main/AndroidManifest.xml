@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="alobha_assigment_stym"
+        android:label="Satyam Assignment"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
